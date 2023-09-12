@@ -1,2 +1,4 @@
-# rstudio_test
-first try
+# RSTUDIO GitHub Integration
+
+BIOL 5660 Data Analytics
+
